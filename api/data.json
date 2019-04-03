@@ -1,0 +1,95 @@
+{
+  "ret": true,
+  "data": {
+    "city": "成都",
+    "swiperList": [
+      {
+        "id": "001",
+        "imgUrl": "https://img.zcool.cn/community/0120045b6cf41ba801215c8f5c93ad.png@1380w"
+      },
+      {
+        "id": "002",
+        "imgUrl": "https://img.zcool.cn/community/017eba5b6c0674a801206a35177a59.jpg@1380w"
+      },
+      {
+        "id": "003",
+        "imgUrl": "https://img.zcool.cn/community/013eb95b6cf5fda801206a35bb8dff.jpg@1380w"
+      }
+    ],
+    "navList": [
+      {
+        "id": "001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "desc": "经典游戏"
+      },
+      {
+        "id": "002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/3e/86314b2af03b7502.png",
+        "desc": "爆款游戏"
+      },
+      {
+        "id": "003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "desc": "吃鸡游戏"
+      },
+      {
+        "id": "004",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/6a/45f595250c73d102.png",
+        "desc": "最新游戏"
+      },
+      {
+        "id": "005",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/50/26ffa31b56646402.png",
+        "desc": "手机游戏"
+      },
+      {
+        "id": "006",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/50/26ffa31b56646402.png",
+        "desc": "网页游戏"
+      },
+      {
+        "id": "007",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+        "desc": "找游戏"
+      },
+      {
+        "id": "008",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/8246f27355943202.png",
+        "desc": "游乐园"
+      },
+      {
+        "id": "009",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/8246f27355943202.png",
+        "desc": "辅助区"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": "001",
+        "imgUrl": "https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/hUTLBybmurBCFkt.jpg!a-3-240x.jpg",
+        "title": "绝地求生",
+        "desc": "外挂级的神仙狙我的狙不需要开镜"
+      },
+      {
+        "id": "002",
+        "imgUrl": "https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/DQpmJGbmuyAblyj.jpg!a-3-240x.jpg",
+        "title": "古剑奇谭网络版",
+        "desc": "门派招生宣传片-斩风篇"
+      }
+    ],
+    "weekendList": [
+      {
+        "id": "001",
+        "imgUrl": "http://i2.17173cdn.com/z0og4j/YWxqaGBf/newgame/20170214/JGalQabliDiiuew.jpg",
+        "title": "战意",
+        "desc": "《战意》为网易游戏2017年创新端游作品，致力打造一 个波澜壮阔的古代战争世界。"
+      },
+      {
+        "id": "002",
+        "imgUrl": "http://i1.17173cdn.com/z0og4j/YWxqaGBf/newgame/20180608/BRaeBNbmppcBmcA.jpg",
+        "title": "古剑奇谭OL",
+        "desc": "体验前所未有的神侠体验"
+      }
+    ]
+  }
+}
